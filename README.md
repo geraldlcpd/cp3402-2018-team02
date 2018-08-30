@@ -1,5 +1,10 @@
 Organic Food Australian Wholesalers 
 
+Team 2:
+1. Gerald Oswald Kalendesang
+2. Limakumba Ao
+3. Geraldo Genesius
+4. Gunraj Singh
 
 Project Description		:
 This project is going to promote organic foods from Australian farmers who wanted to sell their products in Singapore. They would like us, the website creator to think about how to promote their products in another country in bulks, because there are lots of organic farmers in Australia that would like to promote their product outside of Australia. The Organic farmers have assured by saying that their product has been used by many companies in Australia itself, has many registered certifications that the government authority has issued to their products, and that they would like to extend their products to other countries worldwide. They have also assured that their organic products are of high quality.
