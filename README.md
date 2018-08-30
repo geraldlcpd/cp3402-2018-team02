@@ -44,15 +44,15 @@ MenSon
 Fitsa Hats
 
 /* Food Division
-Apple
-Carrot
-Coffee
-Corn
-Kiwi Fruit
-Egg
-Orange
-Rocket Leaves
-Lettuce
-Broccoli
+1.Apple
+2.Carrot
+3.Coffee
+4.Corn
+5.Kiwi Fruit
+6.Egg
+7.Orange
+8.Rocket Leaves
+9.Lettuce
+10.Broccoli
 
 
